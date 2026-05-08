@@ -125,7 +125,12 @@ automatisation-ventes/
 
 > Les 3 graphiques sont générés automatiquement au lancement du script.
 
-![Graphiques des ventes](photos/graphiques.png)
+![Graphiques1](photos/graphiques1.png)
+![Graphiques2](photos/graphiques2.png)
+
+## 🎬 Démonstration
+
+
 
 ---
 
