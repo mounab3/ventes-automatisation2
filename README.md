@@ -180,15 +180,15 @@ https://github.com/user-attachments/assets/783145fa-d646-4202-8226-9b719bfa6239
     <tr>
       <td align="center">
         <img src="photos/mouna.png" width="80" height="80"/><br/>
-        <b>Mouna Belhiba</b><br/>
+        <b>Mouna</b><br/>
       </td>
       <td align="center">
         <img src="photos/mariem.png" width="80" height="80"/><br/>
-        <b>Mariem Saffar</b><br/>
+        <b>Mariem</b><br/>
       </td>
       <td align="center">
         <img src="photos/chawk.png" width="80" height="80"/><br/>
-        <b>Chawk Mejri</b><br/>
+        <b>Chawk</b><br/>
       </td>
     </tr>
   </table>
@@ -197,8 +197,8 @@ https://github.com/user-attachments/assets/783145fa-d646-4202-8226-9b719bfa6239
 ---
 
 <div style="background-color:#eeeeee; padding:15px; border-radius:0px; color:black;">
-  <strong style="font-size:30px;">📄 LMI2</strong>
-  <p>Projet académique réalisé dans le cadre du cours <strong>Logiciels</strong> — 2025.</p>
+  <strong style="font-size:30px;">📄 </strong>
+  <p>Projet académique — 2025-2026.</p>
 </div>
 
 ---
